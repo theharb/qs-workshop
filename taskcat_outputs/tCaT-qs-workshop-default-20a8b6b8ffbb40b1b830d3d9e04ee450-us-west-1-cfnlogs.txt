@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-20a8b6b8ffbb40b1b830d3d9e04ee450
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value HITRUST_app for parameter name
+KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  ------------------------------------------------------------------------------------------------------
+2020-06-15 16:12:45.422000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-20a8b6b8ffbb40b1b830d3d9e04ee450  Parameter validation failed: parameter value HITRUST_app for parameter name KeyPairName does not exist
+2020-06-15 16:12:43.060000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-20a8b6b8ffbb40b1b830d3d9e04ee450  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Monday, 15. June 2020 04:13PM
+-----------------------------------------------------------------------------
+
